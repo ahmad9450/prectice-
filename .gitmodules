@@ -1,3 +1,6 @@
 [submodule "first."]
 	path = first.
 	url = https://github.com/ahmad9450/prectice-.git
+[submodule "first"]
+	path = first
+	url = https://github.com/ahmad9450/prectice-.git
